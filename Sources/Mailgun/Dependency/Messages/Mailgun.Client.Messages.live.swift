@@ -5,10 +5,7 @@
 //  Created by Coen ten Thije Boonkkamp on 20/12/2024.
 //
 
-import Dependencies
-import Foundation
-import UrlFormCoding
-import Date
+import CoenttbWeb
 import IssueReporting
 
 #if canImport(FoundationNetworking)
